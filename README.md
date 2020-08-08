@@ -1,2 +1,8 @@
 # John Macey's Presentations
 
+[Basic Ohm's Law](https://github.com/microcontrollersig/johnmaceypresentations/raw/master/BASICS_DWG.jpg)
+
+[Box of Tricks](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/JGBOT.pdf)
+
+[OpAmps 101](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/OPAMPS_101.pdf)
+

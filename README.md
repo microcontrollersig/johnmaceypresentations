@@ -8,4 +8,4 @@
 
 [Heat Sink](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/heatsink.pdf)
 
-[Apollo Vintage](https://github.com/microcontrollersig/johnmaceypresentations/raw/master/ApolloVintage.pdf)
+[Apollo Vintage](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/ApolloVintage.pdf)

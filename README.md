@@ -18,4 +18,4 @@
 
 Material extracted from google search.
 
-Nasa pres taken from https://groups.google.com/g/microcontrollergroup
+Nasa presentation taken from https://groups.google.com/g/microcontrollergroup

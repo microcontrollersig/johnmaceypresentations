@@ -14,6 +14,8 @@
 
 [Apollo Vintage](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/ApolloVintage.pdf)
 
+[Basic Arduino I/O Circuits](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/IO_CCTS3_DWG.jpg)
+
 # Extras
 
 [NASA/MIT Moonshot Navigation Computer Video](https://www.youtube.com/watch?v=9YA7X5we8ng)

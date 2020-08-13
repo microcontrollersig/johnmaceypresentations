@@ -13,3 +13,9 @@
 # Extras
 
 [NASA/MIT Moonshot Navigation Computer Video](https://www.youtube.com/watch?v=9YA7X5we8ng)
+
+# Credits
+
+Material extracted from google search.
+
+Nasa pres taken from https://groups.google.com/g/microcontrollergroup

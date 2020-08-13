@@ -9,3 +9,7 @@
 [Heat Sink](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/heatsink.pdf)
 
 [Apollo Vintage](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/ApolloVintage.pdf)
+
+# Extras
+
+[NASA/MIT Moonshot Navigation Computer Video](https://www.youtube.com/watch?v=9YA7X5we8ng)

@@ -6,7 +6,9 @@
 
 [OpAmps 101](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/OPAMPS_101.pdf)
 
-[Heat Sink](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/heatsink.pdf)
+[Heat Sink 1](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/heatsink.pdf)
+
+[Heat Sink 2](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/heatsink2.pdf)
 
 [Apollo Vintage](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/ApolloVintage.pdf)
 

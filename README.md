@@ -16,6 +16,8 @@
 
 [Basic Arduino I/O Circuits](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/IO_CCTS3_DWG.jpg)
 
+[Mysteries of Capacitor](https://github.com/microcontrollersig/johnmaceypresentations/blob/master/MPC%20Capacitors%20presentation%20.pdf)
+
 # Extras
 
 [NASA/MIT Moonshot Navigation Computer Video](https://www.youtube.com/watch?v=9YA7X5we8ng)
